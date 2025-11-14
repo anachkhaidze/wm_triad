@@ -19,7 +19,7 @@ This repository contains all code and materials required to reproduce the study 
    - Preprocessed data for regression analysis: `data/wm_task_questionnaires.csv`
 
 3. **Materials**
-   - Script for online imagery questionnaires: `imagery_instrument_script`
+   - Script for online imagery questionnaires: `imagery_script`
    - Script for WM task: pending
   
 4. **Figures**
