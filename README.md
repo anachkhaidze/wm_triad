@@ -1,6 +1,6 @@
 # WM Triad
 
-This repository contains all code and materials required to reproduce the analyses presented in the [preprint](link once we have it).
+This repository contains all code and materials required to reproduce the study and analysis presented in the [preprint](link once we have it).
 
 ### Contents
 
