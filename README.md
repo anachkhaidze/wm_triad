@@ -27,4 +27,5 @@ This repository contains all code and materials required to reproduce the study 
    - Script for WM task: pending
   
 5. **Figures**
+
    All .pdf and .png files for the paper figures can be found here.
