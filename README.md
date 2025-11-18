@@ -12,15 +12,20 @@ This repository contains all code and materials required to reproduce the study 
    - Demographic analysis: 'pending'
    - Create plots: `analysis/plots.ipynb`
 
+
+2. **Data is available in a view-only repository for review, and will be made publicly accessible upon publication.**
+<!--
 2. **Data available on [OSF](OSF link)**
    - Individual participant data from imagery questionnaires (for use in 'imagery_questionnaire_preprocessing.ipynb'): `data/individual_questionnaires`
    - Combined imagery data file: 'data/wm_combined_questionnaires.csv'
    - Preprocessed imagery data created in 'imagery_questionnaire_preprocessing.ipynb' (for use in MERGING_WM_QUESTIONNAIRE): 'data/wm_questionnaires_preprocessed.csv'
    - Preprocessed data for regression analysis: `data/wm_task_questionnaires.csv`
+-->
 
-3. **Materials**
+4. **Materials**
    - Script for online imagery questionnaires: `imagery_script`
    - Script for WM task: pending
   
-4. **Figures**
+5. **Figures**
+
    All .pdf and .png files for the paper figures can be found here.
