@@ -23,7 +23,7 @@ This repository contains all code and materials required to reproduce the study 
 -->
 
 4. **Materials**
-   - Script for online imagery questionnaires: `imagery_script`
+   - Script for online imagery questionnaires: `imagery web study`
    - Script for WM task: pending
   
 5. **Figures**
