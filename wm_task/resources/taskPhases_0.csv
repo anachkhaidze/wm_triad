@@ -1,0 +1,18 @@
+﻿condsFile,taskPhase,introTXT
+./demo.csv,demo,"Now you will do a few demo trials to get accustomed to the cues.
+
+Press 'y' to continue."
+./prac.csv,practice,"Now you will do a few practice trials to get accustomed to the task.
+
+The practice trials are identical to what you just did except for two changes.
+
+First, the task is a bit faster paced.
+
+Second, after you see the rectangle image telling you which item is more likely to be tested, a new image will briefly flash at the center of the screen. This item is irrelevant to your memory task and can be ignored.
+
+Press 'y' to continue."
+./resources/conditions_file_0.csv,mainTask,"Now you are ready to start the experiment! Try your hardest and remember to focus on the center of the screen. 
+
+There will be ten 5-minute blocks, with a short break between each.
+
+Press 'y' to begin."
