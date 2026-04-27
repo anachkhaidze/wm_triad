@@ -1,6 +1,6 @@
-# WM Triad
+# Visual and verbal thought tendencies shape working memory under distraction
 
-This repository contains the code, materials, and data required to reproduce the analyses and figures reported in [paper/preprint title].
+This repository contains the code, materials, and data required to reproduce the analyses and figures reported in the [preprint/preprint title].
 
 ## Repository structure
 
