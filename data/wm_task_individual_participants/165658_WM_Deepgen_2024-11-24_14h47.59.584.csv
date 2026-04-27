@@ -1,0 +1,4 @@
+﻿setup_js.started,setup_js.stopped,participant,date,expName,psychopyVersion,OS,frameRate,Instructions1.started,Instructions1.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,Instructions2.started,Instructions2.stopped,key_resp_3.keys,key_resp_3.rt,key_resp_3.duration,Instructions3.started,Instructions3.stopped,key_resp_4.keys,key_resp_4.rt,key_resp_4.duration,Instructions4.started,Instructions4.stopped,key_resp_5.keys,key_resp_5.rt,key_resp_5.duration,Instructions5.started,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,trials.order
+0.001,0.001,165658,2024-11-24_14h47.59.584,WM_Deepgen,2023.2.1,MacIntel,62.5,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,165658,2024-11-24_14h47.59.584,WM_Deepgen,2023.2.1,MacIntel,62.5,0.001,3.929,y,2.9,,,,,,,,,,,,,,,,,,,,,,,
+,,165658,2024-11-24_14h47.59.584,WM_Deepgen,2023.2.1,MacIntel,62.5,,,,,,3.933,12.04,y,7.088,,12.04,14.256,y,1.187,,14.257,26.505,y,11.212,,26.505,0,0,0,0,1,0

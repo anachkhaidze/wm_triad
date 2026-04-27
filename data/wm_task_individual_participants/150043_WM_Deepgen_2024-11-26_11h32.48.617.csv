@@ -1,0 +1,4 @@
+﻿setup_js.started,setup_js.stopped,participant,date,expName,psychopyVersion,OS,frameRate,Instructions1.started,Instructions1.stopped,key_resp_2.keys,key_resp_2.rt,key_resp_2.duration,Instructions2.started,trials.thisRepN,trials.thisTrialN,trials.thisN,trials.thisIndex,trials.ran,trials.order
+0.0002,0.0004,150043,2024-11-26_11h32.48.617,WM_Deepgen,2023.2.1,MacIntel,58.13953488,,,,,,,,,,,,
+,,150043,2024-11-26_11h32.48.617,WM_Deepgen,2023.2.1,MacIntel,58.13953488,0.0005,1183.5439,y,1182.5085,,,,,,,,
+,,150043,2024-11-26_11h32.48.617,WM_Deepgen,2023.2.1,MacIntel,58.13953488,,,,,,1183.5481,0,0,0,0,1,0
